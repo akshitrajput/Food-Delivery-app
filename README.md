@@ -1,4 +1,2 @@
-<h5  align="center">App Preview</h5>
-<p align="center" >
-<img  src="app_screenshot.jpg" width="350"></img>
-</p>
+<h2 align="left">📸 UI Previews</h2>
+  ![Image Alt](https://github.com/akshitrajput/Food-Delivery-app/blob/7e5d20bc9cef020c6d9ca285d649fa25a0726987/app_screenshot.jpg)
